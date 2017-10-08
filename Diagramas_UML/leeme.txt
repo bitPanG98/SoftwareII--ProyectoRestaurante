@@ -1,1 +1,3 @@
-
+En esta carpeta se encuentra un archivo de extension .mdl ,
+que contiene los diagramas UML desarrollados para el Caso "Practico Restaurante", 
+si desea hacer uso de este archivo abra el software Rational Rose y importelo.
